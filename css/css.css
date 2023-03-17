@@ -1,0 +1,65 @@
+{
+    padding: 8px;
+    margin: 5 px;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+
+}
+
+/*HEADER Y FOOTER*/
+.hd1 {
+    
+    background-color:brown;
+    padding-top: 80 px;
+    padding-bottom: 7%;
+    border: solid 1px black;
+    position: -webkit-sticky;
+    position: static;
+    top: 0;
+}
+
+.btn1 {
+    background-color: red;
+    color: white;
+    border: solid 1px black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 37px;
+    padding-right: 37px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18pt;
+}
+.titulo1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: normal;
+    text-align: left;
+    font-size: 15pt;
+}
+
+.foot1 {
+    border: solid 1px black;
+    background-color: red;
+    padding: 30 px;
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+}
+
+.autor {
+    color: rgb(209, 204, 204);
+    font-size: 15pt;
+    text-align: center;
+}
+
+.imagenvalle {
+    max-width: 100%;
+    width: 48%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
